@@ -29,4 +29,6 @@ The following picture will help better illustrate this concept.
 
 
 
-If you like my artice feel free to contact me on ..
+# Learning so far!
+
+ Reading Assignment 1 ([markdown](markdown.md))
