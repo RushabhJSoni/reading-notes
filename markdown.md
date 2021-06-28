@@ -8,8 +8,7 @@
 
 Markdown is a lightweight markup language for creating formatted text using a plain-text editor.  
 
-Markdown is widely used in blogging, instant messaging, online forums, collaborative software, documentation pages, and readme files. Primarily used **to make static webpages**.
-The language has very simple syntax and is very easy to learn even for a complete novice. 
+Markdown is widely used in blogging, instant messaging, online forums, collaborative software, documentation pages, and readme files. Primarily used **to make static webpages**.:dizzy: .The language has very simple syntax and is very easy to learn even for a complete novice. 
 
 Here are some Basic examples!
 
@@ -31,4 +30,7 @@ We learnt how to register with git hub and the advantages of using git hub. I wi
 
 
 [![git](gitpic.jpeg)]({https://www.youtube.com/embed/2MsN8gpT6jY?} "Git Pages")
+
+***
+
 
