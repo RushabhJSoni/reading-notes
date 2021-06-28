@@ -13,11 +13,10 @@ The language has very simple syntax and is very easy to learn even for a complet
 
 Here are some Basic examples!
 
-| Desired Text              | Markdown code        |
-| --------------------------| ---------------------|
-| Heading with largest font | # Heading level 1    |
-| Heading with one size   
-| smaller font              | ## Heading level 2   |
+| Desired Text                      | Markdown code        |
+| ----------------------------------|----------------------|
+| Heading with largest font         | # Heading level 1    |
+| Heading with one size smaller font| ## Heading level 2   |
 
 The code is as simple as that! If you feel this is something you would like to learn here is a [link](https://www.markdownguide.org/basic-syntax/) for basic syntax. 
 
@@ -30,4 +29,6 @@ GitHub is a Git repository hosting service, but it adds many of its own features
 
 We learnt how to register with git hub and the advantages of using git hub. I will let you watch the following video to learn more about the same!
 
-[![]({gitpic.jpeg})]({https://youtu.be/2MsN8gpT6jYl} "Git Pages"
+
+[![Alternate Text]({gitpic.jpeg})]({https://youtu.be/2MsN8gpT6jYl} "Git Pages")
+
