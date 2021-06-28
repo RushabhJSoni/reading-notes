@@ -30,5 +30,5 @@ GitHub is a Git repository hosting service, but it adds many of its own features
 We learnt how to register with git hub and the advantages of using git hub. I will let you watch the following video to learn more about the same!
 
 
-[![git](gitpic.jpeg)]({https://youtu.be/2MsN8gpT6jYl} "Git Pages")
+[![git](gitpic.jpeg)]({https://www.youtube.com/embed/2MsN8gpT6jY} "Git Pages")
 
