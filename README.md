@@ -31,4 +31,4 @@ The following picture will help better illustrate this concept.
 
 # Learning so far!
 
- [Reading Assignment 1 - Markdown language!](markdown.md))
+ [Reading Assignment 1 - Markdown language!](markdown.md)
