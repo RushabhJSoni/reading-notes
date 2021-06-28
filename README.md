@@ -1,5 +1,5 @@
 # Welcome to my page!
-### Rushabh Soni(https://slayerr1.github.io/reading-notes/)
+### [Rushabh Soni](https://slayerr1.github.io/reading-notes/)
 
 About me: A commercial pilot, instructor, and member of The European Association for Aviation Psychology (EAAP) with over 10
 years of experience in the industry having flown various platforms from single-engine airplanes, turboprops to big jets. Certified
