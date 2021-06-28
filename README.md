@@ -1,4 +1,5 @@
-# reading-notes
+# Welcome to my page!
+### Rushabh Soni(https://slayerr1.github.io/reading-notes/)
 
 ## **The Growth Mind Set**
 
@@ -13,3 +14,9 @@ The following picture will help better illustrate this concept.
 
 ## How I plan on Achiving and maintaining the Growth Mind Set!
 
+1. Always be ready to accept a challange
+   - A challange is the best way to test one's knowlege and must be kept enjoyable.
+2. Persistance
+   - Keep tinkering away adn you will achive your goal!
+3. Discipline
+   - In order to grow and be successfull there are no shortcuts and discipline helps make the entire task/learning very manageble.
