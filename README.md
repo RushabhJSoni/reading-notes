@@ -5,7 +5,7 @@ About me: A commercial pilot, instructor, and member of The European Association
 years of experience in the industry having flown various platforms from single-engine airplanes, turboprops to big jets. Certified
 scuba diver, paraglider, and aerobatic pilot. 
 
-I'm now onto my next new adventure of learing how to code[courtsey wiki](https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/RecipeBook_XML_Example.png/440px-RecipeBook_XML_Example.png)! Stay tuned for more, cheers!
+I'm now onto my next new adventure of learing how to [code!](https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/RecipeBook_XML_Example.png/440px-RecipeBook_XML_Example.png)! Stay tuned for more, cheers!
 
 
 ## **The Growth Mind Set**
@@ -28,3 +28,7 @@ The following picture will help better illustrate this concept.
    - Keep tinkering away and you will achive your goal!
 3. Discipline
    - In order to grow and be successfull there are no shortcuts and discipline helps make the entire task/learning very manageble.
+
+
+
+If you like my artice feel free to contact me on ..
