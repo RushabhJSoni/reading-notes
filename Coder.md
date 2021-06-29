@@ -25,4 +25,14 @@ Get your text editors here!
 
 Code editors or source code editors are the software that is designed specifically to help developers in coding. These are actually the text editors with some additional functionalities to manage and edit code.
 
-Eg: _> Sublime Text, Vs Code etc. _
+Eg: > _Sublime Text, Vs Code etc._
+
+## 4. IDE
+
+An IDE, or Integrated Development Environment, enables programmers to consolidate the different aspects of writing a computer program.
+
+IDEs increase programmer productivity by combining common activities of writing software into a single application: editing source code, building executables, and debugging.
+
+Get your IDE's for free here:
+
+
