@@ -13,3 +13,16 @@ Eg commands:
  - **pwd** = present working directory
 
 ## 2. Text Editor. 
+
+A text editor is a piece of software that you download and install on your computer, or you access online through your web browser, that
+allows you to write and manage text, especially the text that you write to build a web site.
+
+Get your text editors here!
+ - [Mac Notepad](https://mac-notepad.en.softonic.com/mac/download)
+ - [Ms Word for windows](https://www.officesuite.com/download-file/?f=ofswin64)
+
+## 3. Coding-Specific Text Editor.
+
+Code editors or source code editors are the software that is designed specifically to help developers in coding. These are actually the text editors with some additional functionalities to manage and edit code.
+
+Eg: _>Sublime Text, Vs Code etc. _
