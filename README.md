@@ -33,4 +33,4 @@ The following picture will help better illustrate this concept.
 
  [Reading Assignment 1 - Markdown language!](markdown.md)
  
- [Reading Assignment 2 - The Coders Lair](coder.md)
+ [Reading Assignment 2 - The Coders Lair](Coder.md)
