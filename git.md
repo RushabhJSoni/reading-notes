@@ -48,4 +48,6 @@ As a remember, the traditional way of adding a file to a repository using the co
 
    '$ git push origin branch-name'
    
+   ***
    
+[**Home**](https://slayerr1.github.io/reading-notes/)
