@@ -19,3 +19,5 @@ Stay tuned for more, cheers!
  [Reading Assignment 2 - The Coders Lair](Coder.md)
  
  [Reading Assignment 3 - Git](git.md)
+
+ [Reading Assignment 4 - Git](html.md)
