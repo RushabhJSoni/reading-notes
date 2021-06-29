@@ -18,3 +18,7 @@ The following picture will help better illustrate this concept.
    - Keep tinkering away and you will achive your goal!
 3. Discipline
    - In order to grow and be successfull there are no shortcuts and discipline helps make the entire task/learning very manageble.
+
+***
+
+   [**Home**](https://slayerr1.github.io/reading-notes/)
