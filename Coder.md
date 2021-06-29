@@ -25,4 +25,4 @@ Get your text editors here!
 
 Code editors or source code editors are the software that is designed specifically to help developers in coding. These are actually the text editors with some additional functionalities to manage and edit code.
 
-Eg: _>Sublime Text, Vs Code etc. _
+Eg: _> Sublime Text, Vs Code etc. _
