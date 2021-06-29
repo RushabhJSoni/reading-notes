@@ -3,8 +3,8 @@
 ## What are wire frames?
 
     Html essentially consists of boxes and wire frames are used to used to build these boxes/containers within each other to form the basic structure of a web page.
-
-    ![example of wire frame](C:\Users\r\Desktop\wire.png)
+    
+![example of wire frame](wire.png)
 
 
 ## Considerations for creating a wire frame.
@@ -38,7 +38,7 @@ HTML consists of a series of elements, which you use to enclose, or wrap, differ
 
 ## Anatomy of an HTML element
 
-![anatomy](C:\Users\r\Desktop\htmlcode.png)
+![anatomy](htmlcode.png)
 
 ### The main parts of our element are as follows:
 
