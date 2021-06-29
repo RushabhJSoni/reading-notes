@@ -35,5 +35,5 @@ IDEs increase programmer productivity by combining common activities of writing 
 
 Get your IDE's for free here:
 
-[![WS](ws.jpeg)]({https://www.jetbrains.com/webstorm/download/download-thanks.html?platform=mac} "Git Pages")
+![WS](https://www.jetbrains.com/webstorm/download/download-thanks.html?platform=mac)
 
