@@ -37,3 +37,6 @@ Get your IDE's for free here:
 
 [WS](https://www.jetbrains.com/webstorm/download/download-thanks.html?platform=mac)
 
+***
+
+[**Home**](https://slayerr1.github.io/reading-notes/)
