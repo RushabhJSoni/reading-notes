@@ -4,4 +4,4 @@ This lesson was all about what it takes to set up the ideal coding environment f
 There are numerous tools available at our disposal and here are a few important one's with a brief discrption. 
 
 
-## 1. The Terminal ![terminal logo](/main/terminal.jpeg =70x70)
+## 1. The Terminal ![terminal logo](terminal.jpeg =70x70)
