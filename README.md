@@ -35,4 +35,4 @@ The following picture will help better illustrate this concept.
  
  [Reading Assignment 2 - The Coders Lair](Coder.md)
  
- [Reading Assignment 2 - Git](git.md)
+ [Reading Assignment 3 - Git](git.md)
