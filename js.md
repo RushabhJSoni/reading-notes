@@ -45,4 +45,11 @@ Browser APIs are built into your web browser, and are able to expose data from t
 
 ***
 
+## Input Output in plain JavaScript
+
+![JS io](js2.jpg)
+
+***
+
+
  [**Home**](https://slayerr1.github.io/reading-notes/)
