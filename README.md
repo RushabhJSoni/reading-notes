@@ -20,6 +20,6 @@ Stay tuned for more, cheers!
  
  [Reading Assignment 3 - Git](git.md)
 
- [Reading Assignment 4 - Git](html.md)
+ [Reading Assignment 4 - HTML](html.md)
 
- [Reading Assignment 5 - Git](css.md)
+ [Reading Assignment 5 - CSS](css.md)
