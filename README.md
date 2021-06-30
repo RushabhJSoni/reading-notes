@@ -23,3 +23,5 @@ Stay tuned for more, cheers!
  [Reading Assignment 4 - HTML](html.md)
 
  [Reading Assignment 5 - CSS](css.md)
+
+ [Reading Assignment 6 - JS](js.md)
