@@ -1,4 +1,5 @@
 # Welcome to my page!
+
 ### [Rushabh Soni](https://slayerr1.github.io/reading-notes/)
 About me: Airline Captain, instructor, and member of The European Association for Aviation Psychology (EAAP). 
 scuba diver, paraglider, and aerobatic pilot.Having flown various platforms from single-engine airplanes, turboprops to big jets,  
@@ -25,3 +26,5 @@ Stay tuned for more, cheers!
  [Reading Assignment 5 - CSS](css.md)
 
  [Reading Assignment 6 - JS](js.md)
+
+ [Reading Assignment 7 - Programing JS](pjs.md)
