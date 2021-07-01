@@ -28,3 +28,5 @@ Stay tuned for more, cheers!
  [Reading Assignment 6 - JS](js.md)
 
  [Reading Assignment 7 - Programing JS](pjs.md)
+
+ [Reading Assignment 8 - Loops & Operators](loop.md)
