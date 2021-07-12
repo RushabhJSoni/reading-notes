@@ -13,6 +13,8 @@ Stay tuned for more, cheers!
 
 # Learning so far!
 
+## Code - 102 Reading Notes.
+
  [The Growth mind set](growth.md)
 
  [Reading Assignment 1 - Markdown language!](markdown.md)
@@ -30,3 +32,8 @@ Stay tuned for more, cheers!
  [Reading Assignment 7 - Programing JS](pjs.md)
 
  [Reading Assignment 8 - Loops & Operators](loop.md)
+
+
+***
+
+## Code - 201 Reading Notes. 
