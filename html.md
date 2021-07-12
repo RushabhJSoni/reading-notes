@@ -61,4 +61,4 @@ Semantics refers to the meaning of a piece of code — for example "what effect 
  ***
 
 
-[**Home**](https://slayerr1.github.io/reading-notes/)
+[**Home**](https://rushabhjsoni.github.io/reading-notes/)

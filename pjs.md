@@ -51,4 +51,4 @@ Code is run in order from the first line in the file to the last line, unless th
 
 ***
 
-[**Home**](https://slayerr1.github.io/reading-notes/)
+[**Home**](https://rushabhjsoni.github.io/reading-notes/)

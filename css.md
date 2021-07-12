@@ -60,4 +60,4 @@ Use this CSS reference to browse an alphabetical index of all of the standard CS
 
 ***
 
-[**Home**](https://slayerr1.github.io/reading-notes/)
+[**Home**](https://rushabhjsoni.github.io/reading-notes/)

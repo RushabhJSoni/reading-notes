@@ -50,4 +50,4 @@ As a remember, the traditional way of adding a file to a repository using the co
    
    ***
    
-[**Home**](https://slayerr1.github.io/reading-notes/)
+[**Home**](https://rushabhjsoni.github.io/reading-notes/)

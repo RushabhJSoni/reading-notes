@@ -32,4 +32,4 @@ We learnt how to register with git hub and the advantages of using git hub. I wi
 
 ***
 
-[**Home**](https://slayerr1.github.io/reading-notes/)
+[**Home**](https://rushabhjsoni.github.io/reading-notes/)

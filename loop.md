@@ -45,4 +45,4 @@ The condition test occurs before statement in the loop is executed. If the condi
 
 ***
 
-[**Home**](https://slayerr1.github.io/reading-notes/)
+[**Home**](https://rushabhjsoni.github.io/reading-notes/)

@@ -21,4 +21,4 @@ The following picture will help better illustrate this concept.
 
 ***
 
-   [**Home**](https://slayerr1.github.io/reading-notes/)
+   [**Home**](https://rushabhjsoni.github.io/reading-notes/)

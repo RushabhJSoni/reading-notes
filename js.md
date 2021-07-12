@@ -52,4 +52,4 @@ Browser APIs are built into your web browser, and are able to expose data from t
 ***
 
 
- [**Home**](https://slayerr1.github.io/reading-notes/)
+ [**Home**](https://rushabhjsoni.github.io/reading-notes/)

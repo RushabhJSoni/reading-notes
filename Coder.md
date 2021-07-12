@@ -39,4 +39,4 @@ Get your IDE's for free here:
 
 ***
 
-[**Home**](https://slayerr1.github.io/reading-notes/)
+[**Home**](https://rushabhjsoni.github.io/reading-notes/)
