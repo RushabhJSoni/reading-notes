@@ -61,6 +61,10 @@ CSS code can be written in 3 ways:
   - Internal
   - External
 
+### Basic CSS declaration
+
+  ![CSS declaration](cssdeclar.jpg)
+
 
 ***
 
@@ -80,6 +84,103 @@ In a single-line comment, anything that follows the
 two forward slash characters I/ on that line will not
 be processed by the JavaScript interpreter
 
+
+## Decisions and Loops.
+
+Decision Making statements are if, else, elseif and switch these statements are used in making decisions.
+
+
+if..else statements is used where you want to execute a set of code when a condition is true and another if the condition is not true
+
+eg: 
+
+``` if (condition)
+{
+  code to be executed if condition is true
+}
+else
+{
+  code to be executed if condition is false
+} ```
+
+elseif statements
+elseif statements is used where you want to execute a some code if one of several conditions are true use the elseif statement
+
+eg:
+
+``` if (condition)
+{
+  code to be executed if condition is true
+}
+elseif (condition)
+{
+  code to be executed if condition is true;
+}
+else
+{
+  code to be executed if condition is false
+}
+```
+### Comparison operators
+
+A comparison operator compares its operands and returns a logical value based on whether the comparison is true. The operands can be numerical, string, logical, or object values.
+
+![Comparasion operators](jscomp.jpg)
+
+
+
+***
+
+## Loops
+
+Loops offer a quick and easy way to do something repeatedly.
+
+### For Loop
+
+A for loop repeats until a specified condition evaluates to false. 
+
+consists of 3 parts:
+
+``` for ([initialExpression]; [conditionExpression]; [incrementExpression]) ```
+
+### While loop
+
+A while statement executes its statements as long as a specified condition evaluates to true. 
+
+
+***
+
+## Loop Quiz!
+
+> Quizz.com
+
+1. Which of these is not a type of loop in JavaScript?
+
+- while
+
+- for
+
+- repeat
+
+2. Which of these expressions is NOT a valid way to add 1 to a variable in JavaScript?
+
+- x++
+
+- x += 1
+
+- x = x + 1
+
+- x+
+
+3. Let's say you have an x variable that starts as 0. If you want your while loop to stop once the x variable equals 400, what condition would you use?
+
+- x < 400
+
+- x > 400
+
+- x == 400
+
+- x >= 400
 
 ***
 
