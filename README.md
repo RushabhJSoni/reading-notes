@@ -65,3 +65,5 @@ Stay tuned for more, cheers!
 [Class - 13 Reading Notes](class-13.md)
 
 [Class - 14 Reading Notes](class-14.md)
+
+[Class - 14b Reading Notes](class-14b.md)
