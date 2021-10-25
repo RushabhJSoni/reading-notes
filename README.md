@@ -68,4 +68,8 @@ Stay tuned for more, cheers!
 
 [Class - 14b Reading Notes](class-14b.md)
 
+***
+
 ## Code - 301 Reading Notes. 
+
+[Class - 01 Reading Notes](class-01301.md)
