@@ -73,3 +73,5 @@ Stay tuned for more, cheers!
 ## Code - 301 Reading Notes. 
 
 [Class - 01 Reading Notes](class-01301.md)
+
+[Class - 02 Reading Notes](class-02301.md)
