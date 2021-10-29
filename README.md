@@ -79,3 +79,5 @@ Stay tuned for more, cheers!
 [Class - 03 Reading Notes](class-03301.md)
 
 [Class - 04 Reading Notes](class-04301.md)
+
+[Class - 05 Reading Notes](class-05301.md)
