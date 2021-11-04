@@ -87,3 +87,5 @@ Stay tuned for more, cheers!
 [Class - 07 Reading Notes](class-07301.md)
 
 [Class - 08 Reading Notes](class-08301.md)
+
+[Class - 09 Reading Notes](class-09301.md)
