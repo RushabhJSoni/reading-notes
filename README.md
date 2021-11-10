@@ -95,3 +95,5 @@ Stay tuned for more, cheers!
 [Class - 11 Reading Notes](class-11301.md)
 
 [Class - 12 Reading Notes](class-12301.md)
+
+[Class - 13 Reading Notes](class-13301.md)
